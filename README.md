@@ -60,8 +60,8 @@
 ## 📊 GitHub 통계 / Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meow-z3r0d4y&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meow-z3r0d4y&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=meow-z3r0d4y&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meow-z3r0d4y&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
 </p>
 
 ---
