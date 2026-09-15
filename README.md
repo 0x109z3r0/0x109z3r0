@@ -60,8 +60,11 @@
 ## 📊 GitHub 통계 / Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=meow-z3r0d4y&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meow-z3r0d4y&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+  <img src="https://komarev.com/ghpvc/?username=meow-z3r0d4y&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=meow-z3r0d4y&theme=tokyonight&hide_border=true" alt="github streak"/>
 </p>
 
 ---
