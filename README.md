@@ -38,7 +38,7 @@ $ cat about.txt
 
 <sub>진단 항목 예시</sub>
 
-
+| | |
 |:--|:--|
 | **SQL Injection** | **XSS** |
 | **CSRF** | **SSRF** |
