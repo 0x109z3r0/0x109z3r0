@@ -38,7 +38,8 @@ $ cat about.txt
 
 <sub>진단 항목 예시</sub>
 
-| | |
+
+|:--|:--|
 | **SQL Injection** | **XSS** |
 | **CSRF** | **SSRF** |
 | **인증·인가 우회** <sub>Auth Bypass</sub> | **파일 업로드** <sub>File Upload</sub> |
