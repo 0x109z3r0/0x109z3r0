@@ -1,107 +1,67 @@
-<div align="center">
+<h1 align="center">안녕하세요, 기술적 분석과 보안을 연구하는 개발자입니다 👋</h1>
 
-<a href="https://github.com/0x109z3r0">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=E5534B&center=true&vCenter=true&width=560&lines=%24+whoami;0x109z3r0;Web+Vulnerability+Assessment;Penetration+Testing" alt="whoami" />
-</a>
-
-**웹 취약점 진단 · 모의해킹 (Penetration Testing)**<br/>
-<sub>Security Researcher &amp; Offensive Security Enthusiast</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Focus-Web%20Security-E5534B?style=flat-square" alt="focus"/>
-<img src="https://img.shields.io/badge/Field-Penetration%20Testing-0969DA?style=flat-square" alt="field"/>
-<img src="https://img.shields.io/badge/Mindset-Break%20to%20Defend-D97706?style=flat-square" alt="mindset"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_ID]&style=flat-square&color=blueviolet" alt="Visitor Count" />
+</p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-```console
-$ cat about.txt
-```
-
-- **웹 애플리케이션 취약점 진단**과 **모의해킹**에 관심이 많습니다.<br/>
-  <sub>Focused on web application vulnerability assessment and penetration testing.</sub>
-- 공격자의 관점으로 시스템을 분석하고, 더 안전하게 방어하는 방법을 고민합니다.<br/>
-  <sub>I analyze systems from an attacker's perspective to make them safer to defend.</sub>
-- 진단 과정과 발견한 이슈를 **리포트로 정리**하는 것을 좋아합니다.<br/>
-  <sub>I enjoy documenting findings in clear, actionable pentest reports.</sub>
-- 계속 배우는 중입니다 — CTF, 취약점 연구, 시큐어 코딩.<br/>
-  <sub>Always learning — CTFs, vulnerability research, and secure coding.</sub>
+* 🔍 **Focus:** 정보보안, 웹 보안 취약점 분석, 백엔드 엔지니어링 및 시스템 보안
+* 💡 **Interest:** 취약점 진단 자동화, 제로데이(Zero-Day) 연구, 견고한 시스템 설계
+* 🛠 **Goal:** 코드의 안전성과 인프라 무결성을 최우선으로 고려하는 시큐어 코딩 실천
 
 ---
 
-## Assessment Areas
+## 🛠 Tech Stack
 
-<sub>진단 항목 예시</sub>
+### Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
+</p>
 
-| | |
-|:--|:--|
-| **SQL Injection** | **XSS** |
-| **CSRF** | **SSRF** |
-| **인증·인가 우회** <sub>Auth Bypass</sub> | **파일 업로드** <sub>File Upload</sub> |
-| **접근 통제** <sub>Access Control</sub> | **정보 노출** <sub>Information Exposure</sub> |
-
----
-
-## Interests &amp; Skills
-
-<table>
-  <tr>
-    <td width="160"><b>Main Tools</b><br/><sub>주력 도구</sub></td>
-    <td>
-      <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-      <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" alt="Nmap"/>
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
-      <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
-      <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Currently Learning</b><br/><sub>학습 중</sub></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/Ghidra-C4302B?style=flat-square&logo=ghidra&logoColor=white" alt="Ghidra"/>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-    </td>
-  </tr>
-</table>
+### Systems & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## Stats
+## 💻 Key Projects & Research
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=0x109z3r0&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views"/>
-  <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=0x109z3r0&theme=github-dark-blue&hide_border=true&background=0D1117"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=0x109z3r0&theme=default&hide_border=true"/>
-    <img src="https://streak-stats.demolab.com/?user=0x109z3r0&hide_border=true" alt="GitHub streak"/>
-  </picture>
-</div>
+| 프로젝트 / 연구명 | 주요 기술 | 설명 및 성과 |
+| :--- | :--- | :--- |
+| **보안 취약점 진단 및 자동화 Fuzzer** | Python, Linux | 제로데이 취약점 탐색 및 정밀 분석을 위한 퍼징(Fuzzing) 자동화 도구 개발 |
+| **웹 애플리케이션 보안 진단** | Python, OWASP Top 10 | 주요 오픈소스 및 웹 플랫폼 내 비인가 접근(IDOR) 및 권한 상승 취약점 식별 및 리포트 작성 |
+| **시스템 인프라 보안 강화** | Linux, Bash | 주요 기반시설 보안 가이드라인 준수 및 시스템 하드디스크/로그 무결성 검증 스크립트 작성 |
 
 ---
 
-## Contact
+## 🏆 Certifications & Activities
 
-| | |
-|:--|:--|
-| **Email** | 준비중 |
-| **Blog / Portfolio** | 준비중 |
+* **보안 자격증 준비 및 취득:** 정보보안기사 및 개인정보관리사(CPPG) 역량 강화 학습
+* **취약점 제보 및 연구:** 오픈소스 및 주요 웹 서비스 취약점 분석 후 담당 기관 신고 활동 진행
+* **스터디 및 클럽 활동:** 기술 보안 스터디 그룹 운영 및 코드 리뷰 프로세스 정립
 
 ---
 
-<div align="center">
-<sub>
-모든 보안 연구와 테스트는 <b>합법적인 권한이 있는 환경</b>에서만 수행합니다.<br/>
-All security research and testing is performed <b>only in authorized environments</b>.
-</sub>
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_ID]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_ID]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 📬 Contact
+
+* **Email:** `your.email@example.com`
+* **Blog:** [Link to your Blog / Notion]
